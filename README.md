@@ -1,4 +1,4 @@
-# Recipe Image Generator
+# Recipe Image Generator --First Hackathon! :D
 
 ## Overview
 
