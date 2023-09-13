@@ -1,6 +1,3 @@
-Certainly! Here's the README.md content in markdown format:
-
-```markdown
 # Recipe Image Generator
 
 ## Overview
@@ -81,9 +78,5 @@ To set up the Recipe Image Generator, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
+Enjoy using the Recipe Image Generator!
 
-Enjoy using the Recipe Image Generator! If you encounter any issues or have questions, please feel free to reach out to our support team at support@recipeimagegenerator.com.
-```
-
-You can copy and paste this markdown content into your README.md file.
