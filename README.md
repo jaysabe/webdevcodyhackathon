@@ -1,5 +1,4 @@
-# Recipe Image Generator --First Hackathon! :D
-
+# Recipe Image Generator --First Hackathon!
 ## Overview
 
 The Recipe Image Generator is a web application that utilizes the OpenAI API, Langchain.js, and Replicate to create new images based on user input. Users can input recipe names, and the AI will render an image that visually represents the input recipe. This README.md file provides an overview of the project, installation instructions, and usage guidelines.
